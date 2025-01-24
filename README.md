@@ -1,4 +1,4 @@
-# Rankup
+# RankUp
 
 RankUp is a PyTorch extension that nudges gradient updates away from directions that would lower the rank of your model’s parameters or features. It can be useful if you need to preserve full-rank behavior, for instance in certain regularization or constraint settings.
 
